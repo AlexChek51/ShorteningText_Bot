@@ -1,0 +1,10 @@
+fpdf==1.7.2
+pypdf==4.2.0
+tiktoken==0.7.0
+python-dotenv==1.0.1
+nest_asyncio==1.6.0
+aiogram==3.8.0
+langchain==0.2.6
+langchain-openai==0.1.13
+langchain_community==0.2.6
+langchain-text-splitters==0.2.2
